@@ -7,8 +7,6 @@
 
 - 💬 My interests are **Qt, web development, computer networks**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ItMRZx1I9wcgPg_--LDSEAw51BWoI6LMjd96DNIPEHM/edit?usp=sharing](https://docs.google.com/document/d/1ItMRZx1I9wcgPg_--LDSEAw51BWoI6LMjd96DNIPEHM/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gustavo-dias-de-oliveira-252763186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-dias-de-oliveira-252763186" height="30" width="40" /></a>
