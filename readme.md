@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Dias de Oliveira</h1>
-<h3 align="center">I have recently graduated from UFMG with a Computer Science Bachelors degree. Throughout my academic journey, I have developed many projects , with a focus on Computer Networks, Machine Learning and Software Engineering, using programming languages such as C/C++, Rust, Python and SML. In addition to that, I have almost 3 years of experience working as a Software Engineer Intern, utilizing technologies like React, React Native, Node and Python to create innovative solutions. At the moment, I work as a SDE at CI&T developing solution using Java and Angular.</h3>
+<h5 align="center">I have recently graduated from UFMG with a Computer Science Bachelors degree. Throughout my academic journey, I have developed many projects , with a focus on Computer Networks, Machine Learning and Software Engineering, using programming languages such as C/C++, Rust, Python and SML. In addition to that, I have almost 3 years of experience working as a Software Engineer Intern, utilizing technologies like React, React Native, Node and Python to create innovative solutions. At the moment, I work as a SDE at CI&T developing solution using Java and Angular.</h5>
 
 - 🔭 I’m currently working at **CI&T as a SDE**
 
